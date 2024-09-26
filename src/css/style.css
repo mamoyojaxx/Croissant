@@ -1,4 +1,13 @@
 body{
-    background-image: linear-gradient(navy, skyblue, white );
+    background-image: linear-gradient(to right, navy, skyblue, white );
     background-repeat: no-repeat;
+    color: orange;
+}
+
+a{
+    color:orange;
+}
+
+a:hover{
+    color: red;
 }
